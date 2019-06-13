@@ -4,4 +4,5 @@ entity mytable {
 
 KEY ID : Integer;
  Name : String(19);
+ LastName: String(20);
 };
