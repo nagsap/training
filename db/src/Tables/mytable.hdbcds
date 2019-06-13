@@ -1,0 +1,7 @@
+namespace xsa_hdi.db.Tables;
+
+entity mytable {
+
+KEY ID : Integer;
+ Name : String(19);
+};

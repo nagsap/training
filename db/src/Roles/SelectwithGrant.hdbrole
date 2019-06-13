@@ -1,0 +1,12 @@
+{
+   "role":{
+        "name":"xsa_hdi.db.Roles::ReadAccess#",
+        "object_privileges":[
+  {     
+            "name":"xsa_hdi.db.Tables::mytable",
+            "type":"TABLE",
+            "privileges_with_grant_option":["SELECT" ]
+    }
+    ]
+     } 
+}

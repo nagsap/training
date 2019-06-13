@@ -1,0 +1,8 @@
+{
+  "xsa_hdi.db::Synonym_0": {
+    "target": {
+      "object": "BANK_RISK_DATA",
+      "schema": "TRAINING"
+    }
+  }
+}

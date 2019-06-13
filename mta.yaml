@@ -1,0 +1,46 @@
+ID: xsa_hdi
+_schema-version: '2.0'
+version: 0.0.2
+
+modules:
+ - name: db
+   type: hdb
+   path: db
+   requires:
+    - name: hdi_db
+      properties:
+        TARGET_CONTAINER: ~{hdi-container-name}
+
+
+
+ 
+    - name: cross-container-service-1
+      group: SERVICE_REPLACEMENTS
+
+      properties:
+        key: ServiceName_1
+        service: ~{the-service-name}
+                          
+
+
+ - name: nodejs
+   type: nodejs
+   path: nodejs
+   provides:
+    - name: nodejs_api
+      properties:
+         url: ${default-url}
+
+resources:
+ - name: hdi_db
+   properties:
+      hdi-container-name: ${service-name}
+   type: com.sap.xs.hdi-container
+
+ - name: cross-container-service-1
+   parameters:
+      service-name: CROSS_SCHEMA_TRAINING_ACCESS
+   properties:
+      the-service-name: ${service-name}
+   type: org.cloudfoundry.existing-service
+

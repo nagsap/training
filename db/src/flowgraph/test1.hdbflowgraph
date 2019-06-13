@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flowgraph:ContainerNode xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:flowgraph="http://www.sap.com/ndb/flowgraph/1.0" xmi:version="2.0" xmi:id="4e282297d5cd585f29adeb112951f60d" name="test1" runtimeBehavior="BATCH_TASK">
+  <annotations key="sap.afm.layout" xmi:id="27989b341ce4fa688ab78db76240e975">
+    <annotations xmi:id="76a60cf95757d51c0321c28081e7898d" key="x" value="10">
+    </annotations>
+    <annotations xmi:id="403bf59a247648b9630994a839a42050" key="y" value="10">
+    </annotations>
+    <annotations xmi:id="b1f4e4789e30dee0970c2531f127db61" key="width" value="100">
+    </annotations>
+    <annotations xmi:id="ab54dcc16e845673e25434d7858dfed0" key="height" value="84">
+    </annotations>
+  </annotations>
+  <annotations xmi:id="78a20e3701d10d63b65aa4c8f15dfdfb" key="sap.afm.palette">
+    <annotations xmi:id="2f5b09bbedb8a86dd92835cdc58aaae4" key="additions" value=""/>
+  </annotations>
+  <annotations xmi:id="2ae3f727846bff81ff8f65de7f31531d" key="sap.afm.nodeType" value="ContainerNode">
+  </annotations>
+  <annotations xmi:id="f3f084ed57c529309b32b02df56e4a3c" key="sap.afm.nodeInputs">
+  </annotations>
+  <annotations xmi:id="583459d343b4337445d30a0cd5842a28" key="sap.afm.nodeOutputs">
+  </annotations>
+  <annotations xmi:id="b317ace90efa07c5e2603fadc84c7d85" key="sap.im.explicitTypeConversion">
+  </annotations>
+  <tableMappings xmi:id="b871adb7521cbaf833e06a6b2acb7101" source="49888532a4fffb1d7560f98344c42fbe" target="fa793834c13a189dee7c93b7a271c7d1">
+    <attributeMappings xmi:id="2a35f4c3b1e7ed08d3fa38b31f80077f" source="a1cf7fddb2b537a4f984c5428e684f43" target="255cc0345fe8207cb90949ff866a0979">
+    </attributeMappings>
+    <attributeMappings xmi:id="ef04adf6c31b4fd25fe9ffdf6ed72e74" source="2fca0fa5553f741dfafb580bc60085f6" target="af8783dafa0089eee66759591d58e4c3">
+    </attributeMappings>
+    <attributeMappings xmi:id="124610a1025759f05aeadfefe4a5c97d" source="f85058c23f368b3d11bb8ecc1468bf6e" target="e2bb307b51abc5cc5fee590773e2c9aa">
+    </attributeMappings>
+    <attributeMappings xmi:id="a2600520cc49a5db6e5e49f7905a4148" source="21a850529a97c6cc34ee93ede4d8a824" target="e52950b17c6111751f3db0eca7b0eed3">
+    </attributeMappings>
+    <attributeMappings xmi:id="ac3cde8b9205b04d7049413b6bc8a1cc" source="658adaad1808bead616933543165ed26" target="dfca97c3f0102b90600ac419171b8c3c">
+    </attributeMappings>
+  </tableMappings>
+  <tableMappings xmi:id="34d671227c08a6324948ecafd5b97437" source="de0ea76f7da9de73e348e9fcc30dd61d" target="f19962a26ebfe52c57113b47136a6aef">
+    <attributeMappings xmi:id="195ee13665a288f7e97f3b6fb0cc642e" source="501863038ae163fc9a01f4fb6ab03c32" target="58ca425420fcd3442ff70811e43c73dd">
+    </attributeMappings>
+    <attributeMappings xmi:id="5f2c593844c9204709406eaf4813f3a0" source="c60c256b0c77fde4947d9d883dd51db1" target="a9b9f7c422849f8db3fea4e716005608">
+    </attributeMappings>
+    <attributeMappings xmi:id="5974dae1c8dc4f030fa2404a04a9451e" source="f0b9b151fa8f482f92589ee0a7dea809" target="f1d33a5e1b580c29e7912fe53d1481d0">
+    </attributeMappings>
+  </tableMappings>
+  <tableMappings xmi:id="3af7100e1ceb1e31951d45868f0b5571" source="7deccc2d70b3b2920c58a94b7925efee" target="d1c63db29cc3f41e71fe46a7f810d3bb">
+    <attributeMappings xmi:id="2339e50831c8f11ace048540fa696bf1" source="a18d26bf2136a8efa678a459702a2bab" target="b34768324df2d643e2c2bed7d36a17da">
+    </attributeMappings>
+    <attributeMappings xmi:id="5b072774c357af49a8db118c1911a3f5" source="e6513fe0047d035e56cdbc537b3ba219" target="aa2e310879d3259a20ac2c20f9963f39">
+    </attributeMappings>
+    <attributeMappings xmi:id="660a98246e4191db658b1afac3ada8d0" source="c46daa5c89584965297efbf86f2c5d86" target="ae5630cff4fcffdf6756258dff0128c3">
+    </attributeMappings>
+    <attributeMappings xmi:id="351d3f50c57e6a80e42c79c29175521a" source="2fecf83d03c015f189dce20e1b907cc6" target="ee1fb35a9b7cdb1c408b6787df01e777">
+    </attributeMappings>
+    <attributeMappings xmi:id="c3e2eb241f18241b770ed1ba1e4d1a76" source="8541758d0b4054c8671d9eca9e1e95a3" target="76de97428413f1619a095548d22eaf09">
+    </attributeMappings>
+  </tableMappings>
+  <tableMappings xmi:id="f6961abca17214da9e208d80552dc8fa" source="bb87a5e85b3507398d06170c5732bef9" target="c1ed2cc49c96773c3f595e440f4e1c18">
+    <attributeMappings xmi:id="9e9a9087287a3503ac1b8aa909faa5c2" source="b93ba84209adec773cec7e9add12a0c8" target="6cff5ae5485eef6fee5ea56ada67c8d6">
+    </attributeMappings>
+    <attributeMappings xmi:id="f1d2ec619c4f6c1abc38bb95600dc8f7" source="fffe8fad918d1ecd60adaba7f0c52a6e" target="f34708938f92292b894970441393b6f5">
+    </attributeMappings>
+    <attributeMappings xmi:id="ecb5b13c62db77fc61e0c833ffd4087a" source="c87964b498d4d05859fae9dc7b33b622" target="5b3d5057d942f88ae3d628a0f239b8d9">
+    </attributeMappings>
+    <attributeMappings xmi:id="77d17597d1a2230aa53b982983b47935" source="e91f7775022bd9668430eb3adc48a81e" target="b9cea940ffa4c90465d8f142c72e0b14">
+    </attributeMappings>
+    <attributeMappings xmi:id="6b9377acf013965efc47610524479d93" source="2c77065de6cc10fa394c9c5f9a275042" target="bca5483eca6e1228c106149d4d889950">
+    </attributeMappings>
+  </tableMappings>
+  <tableMappings xmi:id="721b13c110f51676d9f7ec1cafc1192d" source="a36fc00d9528d7fd8f7e64f23e238f24" target="aab14420591355da8865b7b82e177c2b">
+    <attributeMappings xmi:id="a370cf3da445e22cfbb1443e383d7cef" source="0df7011cea2a6087ccb871d4f552dd0d" target="e3c6197a52532af4e7623746936ee936">
+    </attributeMappings>
+    <attributeMappings xmi:id="7b189ee00ae7a0dd525a9dab2480bed5" source="bb1c25364499ac5e1d3e7ada92aa3933" target="6f7aca3ac4efd672ad0001796ccd0561">
+    </attributeMappings>
+    <attributeMappings xmi:id="6db77e5483821e1295fa9605d673fab6" source="92da1756b73ef1e37a63f2cac0afe1ae" target="817f2af2ccc0be8fb8ca8d0492863f77">
+    </attributeMappings>
+    <attributeMappings xmi:id="09b4fbfafeeb9b5d3abb69ae3d8a460c" source="cdf57cb3958478aae80ab140f46adab2" target="cb4d4854fcdd3b5106e6c4941192cb3a">
+    </attributeMappings>
+    <attributeMappings xmi:id="570d2d8601d688427532a24b3fe84a24" source="9c5b08b0be210bb3b08e7b69a3a752ad" target="b6064cfb748b94a0d109c302a86ffabf">
+    </attributeMappings>
+  </tableMappings>
+  <nodes xmi:id="37025efcaa09b695b2eae4ac1d556f03" name="bank" catalogObjectName="xsa_hdi.db::Synonym_0" type="DATABASE_TABLE" xsi:type="flowgraph:DataNode" dataLayout="COLUMN">
+    <annotations key="sap.afm.layout" xmi:id="6da6d4594329595e6dc275cc994f7e40">
+      <annotations xmi:id="9bbd1b08d70255871402d3ad62d3a23e" key="x" value="63">
+      </annotations>
+      <annotations xmi:id="1229783b7c0e81763791793dd5e84a0b" key="y" value="59">
+      </annotations>
+      <annotations xmi:id="5a4b23d4b6a34482cee9e85e092dece2" key="width" value="120">
+      </annotations>
+      <annotations xmi:id="a1bc09748092269febab963618f5e770" key="height" value="115">
+      </annotations>
+    </annotations>
+    <annotations xmi:id="b84b7c46100e6204dfa66bea9fe96aab" key="sap.afm.description">
+    </annotations>
+    <annotations xmi:id="0f30a19417d58901546e521910ea045c" key="sap.afm.nodeType" value="DataNode">
+    </annotations>
+    <annotations xmi:id="0918c2bef37b7a9a08769afa1b5d4cf5" key="sap.afm.nodeInputs">
+    </annotations>
+    <annotations xmi:id="199bba02249697b6ef50c68958fd2dad" key="sap.afm.nodeOutputs">
+    </annotations>
+    <annotations xmi:id="b7d4d945627601a3fcce9fe3d76560c4" key="sap.afm.displayName" value="Data Source">
+    </annotations>
+    <annotations xmi:id="0fcf81bd56ff02cc195aaa94be9f70aa" key="columns" value="[{&quot;name&quot;:&quot;BANK_NAME&quot;,&quot;type&quot;:&quot;VARCHAR&quot;,&quot;length&quot;:32,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;a1cf7fddb2b537a4f984c5428e684f43&quot;},{&quot;name&quot;:&quot;BRANCH_ID&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;2fca0fa5553f741dfafb580bc60085f6&quot;},{&quot;name&quot;:&quot;CUSTOMER_NAME&quot;,&quot;type&quot;:&quot;VARCHAR&quot;,&quot;length&quot;:32,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;f85058c23f368b3d11bb8ecc1468bf6e&quot;},{&quot;name&quot;:&quot;ANNUAL_INCOME_KEUR&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;21a850529a97c6cc34ee93ede4d8a824&quot;},{&quot;name&quot;:&quot;DEBT_TO_INCOME_RATIO&quot;,&quot;type&quot;:&quot;VARCHAR&quot;,&quot;length&quot;:8,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;658adaad1808bead616933543165ed26&quot;}]">
+    </annotations>
+    <outputs xmi:id="49888532a4fffb1d7560f98344c42fbe" name="bank">
+      <attributes xmi:id="a1cf7fddb2b537a4f984c5428e684f43" name="BANK_NAME" type="VARCHAR" nullable="true" length="32">
+      </attributes>
+      <attributes xmi:id="2fca0fa5553f741dfafb580bc60085f6" name="BRANCH_ID" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="f85058c23f368b3d11bb8ecc1468bf6e" name="CUSTOMER_NAME" type="VARCHAR" nullable="true" length="32">
+      </attributes>
+      <attributes xmi:id="21a850529a97c6cc34ee93ede4d8a824" name="ANNUAL_INCOME_KEUR" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="658adaad1808bead616933543165ed26" name="DEBT_TO_INCOME_RATIO" type="VARCHAR" nullable="true" length="8">
+      </attributes>
+    </outputs>
+  </nodes>
+  <nodes xmi:id="4ad58a7bab163799c2d21e349b8ca01c" xsi:type="flowgraph:FilterNode" name="Projection" expression="">
+    <annotations key="sap.afm.layout" xmi:id="033789275f06d50f5e7931ce377df900">
+      <annotations xmi:id="b7426f7b6bc8388d9cb226c36ea5e94e" key="x" value="245">
+      </annotations>
+      <annotations xmi:id="6f9f2633ed5c9aa7d1afbc97470e7aa5" key="y" value="68">
+      </annotations>
+      <annotations xmi:id="fcb9df7dbac7648768f73f02b3b7f2cf" key="width" value="120">
+      </annotations>
+      <annotations xmi:id="0667e7c02d259fae921014bfb9cfa23d" key="height" value="115">
+      </annotations>
+    </annotations>
+    <annotations xmi:id="6bbb5f9731d3e9a06255adfc2fc25298" key="sap.im.transform.jit" value="true">
+    </annotations>
+    <inputs xmi:id="fa793834c13a189dee7c93b7a271c7d1" name="Projection_IN">
+      <attributes xmi:id="255cc0345fe8207cb90949ff866a0979" name="BANK_NAME" type="VARCHAR" nullable="true" length="32">
+      </attributes>
+      <attributes xmi:id="af8783dafa0089eee66759591d58e4c3" name="BRANCH_ID" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="e2bb307b51abc5cc5fee590773e2c9aa" name="CUSTOMER_NAME" type="VARCHAR" nullable="true" length="32">
+      </attributes>
+      <attributes xmi:id="e52950b17c6111751f3db0eca7b0eed3" name="ANNUAL_INCOME_KEUR" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="dfca97c3f0102b90600ac419171b8c3c" name="DEBT_TO_INCOME_RATIO" type="VARCHAR" nullable="true" length="8">
+      </attributes>
+    </inputs>
+    <outputs xmi:id="de0ea76f7da9de73e348e9fcc30dd61d" name="Projection_OUT">
+      <attributes xmi:id="501863038ae163fc9a01f4fb6ab03c32" name="BANK_NAME" type="VARCHAR" nullable="true" expression="&quot;BANK_NAME&quot;" length="32">
+      </attributes>
+      <attributes xmi:id="c60c256b0c77fde4947d9d883dd51db1" name="BRANCH_ID" type="INTEGER" nullable="true" expression="&quot;BRANCH_ID&quot;" length="10">
+      </attributes>
+      <attributes xmi:id="f0b9b151fa8f482f92589ee0a7dea809" name="Newsales" type="VARCHAR" nullable="true" length="38" expression="&#x27;default&#x27;">
+      </attributes>
+    </outputs>
+  </nodes>
+  <nodes xmi:id="9c74e09133fef46f78fb1bb3c8d3e598" xsi:type="flowgraph:DataNode" name="DataTarget" truncateTable="false" catalogObjectName="TestTarget" type="TEMPLATE_TABLE">
+    <annotations key="sap.afm.layout" xmi:id="c6a67094bc90a0e69641aa2cb09cebed">
+      <annotations xmi:id="d543d4987c7a999de4050c5aae3f2f65" key="x" value="430">
+      </annotations>
+      <annotations xmi:id="1815c8629cba6e21a6f4e70b392ef592" key="y" value="72">
+      </annotations>
+      <annotations xmi:id="2ee5d94e9b6bee670c51e0375451554a" key="width" value="120">
+      </annotations>
+      <annotations xmi:id="d3a30c9ee028ac6514e9fa52af51fe85" key="height" value="115">
+      </annotations>
+    </annotations>
+    <annotations xmi:id="fcca13b34cc3aa97b90db800655ee91d" key="sap.afm.description">
+    </annotations>
+    <annotations xmi:id="01b9515e4b5578dfb7a4b19c484d6717" key="sap.afm.nodeType" value="DataNode">
+    </annotations>
+    <annotations xmi:id="882c53b1df3067adf2c0ef033c86943d" key="sap.afm.nodeInputs">
+    </annotations>
+    <annotations xmi:id="17b2dc38583b0fd8dcac61d99e1ac833" key="sap.afm.nodeOutputs">
+    </annotations>
+    <annotations xmi:id="64a8d9d5352e94f07b8b8733964dfaff" key="sap.afm.displayName" value="Data Target">
+    </annotations>
+    <inputs xmi:id="aab14420591355da8865b7b82e177c2b" name="DataTarget" kind="TABLE">
+      <attributes xmi:id="e3c6197a52532af4e7623746936ee936" name="BANK_NAME" type="VARCHAR" nullable="true" length="32">
+        <annotations xmi:id="bb6d6055572ed93ad28ca87a224810e5" key="sap.im.primaryKey" value="false"/>
+      </attributes>
+      <attributes xmi:id="6f7aca3ac4efd672ad0001796ccd0561" name="BRANCH_ID" type="INTEGER" nullable="true" length="10">
+        <annotations xmi:id="44ef0918786f2744f26b3d1ee8b06520" key="sap.im.primaryKey" value="false"/>
+      </attributes>
+      <attributes xmi:id="817f2af2ccc0be8fb8ca8d0492863f77" name="CUSTOMER_NAME" type="VARCHAR" nullable="true" length="32">
+      </attributes>
+      <attributes xmi:id="cb4d4854fcdd3b5106e6c4941192cb3a" name="ANNUAL_INCOME_KEUR" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="b6064cfb748b94a0d109c302a86ffabf" name="DEBT_TO_INCOME_RATIO" type="VARCHAR" nullable="true" length="8">
+      </attributes>
+    </inputs>
+  </nodes>
+  <nodes xmi:id="5e9093f585019c3436316d6192d5689c" name="DataSource" catalogObjectName="xsa_hdi.db::Synonym_0" type="DATABASE_TABLE" xsi:type="flowgraph:DataNode" dataLayout="COLUMN">
+    <annotations key="sap.afm.layout" xmi:id="2e49bc5696a5c437a9f397a4687d7845">
+      <annotations xmi:id="bcc7511d961587593458f0ac9d9c0b0f" key="x" value="28">
+      </annotations>
+      <annotations xmi:id="24118985a68d92880beb2f6c7080708a" key="y" value="234">
+      </annotations>
+      <annotations xmi:id="c85e05218e7afa6ece1e68bf8e0a2a79" key="width" value="120">
+      </annotations>
+      <annotations xmi:id="76d1302b3ce61df1b4079e199c5d2198" key="height" value="115">
+      </annotations>
+    </annotations>
+    <annotations xmi:id="c81d6e848d9b12c8ad3db8b9004e3f49" key="sap.afm.description">
+    </annotations>
+    <annotations xmi:id="dc4611e562f5c07ba82a2e05536e3a7a" key="sap.afm.nodeType" value="DataNode">
+    </annotations>
+    <annotations xmi:id="4f175c5c93d5cc3575b3f0089427f104" key="sap.afm.nodeInputs">
+    </annotations>
+    <annotations xmi:id="2dbb7401810af3716a7bc36b36ea4261" key="sap.afm.nodeOutputs">
+    </annotations>
+    <annotations xmi:id="d41533d9472538542d6bae8a3fb584d3" key="sap.afm.displayName" value="Data Source">
+    </annotations>
+    <annotations xmi:id="2b180382f4f219418f04a8fa7fc74705" key="columns" value="[{&quot;name&quot;:&quot;BANK_NAME&quot;,&quot;type&quot;:&quot;VARCHAR&quot;,&quot;length&quot;:32,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;a18d26bf2136a8efa678a459702a2bab&quot;},{&quot;name&quot;:&quot;BRANCH_ID&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;e6513fe0047d035e56cdbc537b3ba219&quot;},{&quot;name&quot;:&quot;CUSTOMER_NAME&quot;,&quot;type&quot;:&quot;VARCHAR&quot;,&quot;length&quot;:32,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;c46daa5c89584965297efbf86f2c5d86&quot;},{&quot;name&quot;:&quot;ANNUAL_INCOME_KEUR&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;2fecf83d03c015f189dce20e1b907cc6&quot;},{&quot;name&quot;:&quot;DEBT_TO_INCOME_RATIO&quot;,&quot;type&quot;:&quot;VARCHAR&quot;,&quot;length&quot;:8,&quot;nullable&quot;:&quot;true&quot;,&quot;id&quot;:&quot;8541758d0b4054c8671d9eca9e1e95a3&quot;}]">
+    </annotations>
+    <outputs xmi:id="7deccc2d70b3b2920c58a94b7925efee" name="DataSource">
+      <attributes xmi:id="a18d26bf2136a8efa678a459702a2bab" name="BANK_NAME" type="VARCHAR" nullable="true" length="32">
+      </attributes>
+      <attributes xmi:id="e6513fe0047d035e56cdbc537b3ba219" name="BRANCH_ID" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="c46daa5c89584965297efbf86f2c5d86" name="CUSTOMER_NAME" type="VARCHAR" nullable="true" length="32">
+      </attributes>
+      <attributes xmi:id="2fecf83d03c015f189dce20e1b907cc6" name="ANNUAL_INCOME_KEUR" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="8541758d0b4054c8671d9eca9e1e95a3" name="DEBT_TO_INCOME_RATIO" type="VARCHAR" nullable="true" length="8">
+      </attributes>
+    </outputs>
+  </nodes>
+  <nodes xmi:id="d2b50c54bb98ddcae2a2d07d6124ac26" xsi:type="flowgraph:JoinNode" name="Join">
+    <annotations key="sap.afm.layout" xmi:id="ffe4d519d42ffaafd9f9f22680dfc1bd">
+      <annotations xmi:id="1ad58168946a8ecaaca316eec76c70d6" key="x" value="259">
+      </annotations>
+      <annotations xmi:id="f1df2ba19605e7f4deeb4d68cd52011e" key="y" value="234">
+      </annotations>
+      <annotations xmi:id="1f9569a80d7e57ad9dd3a32df39390f5" key="width" value="153.04833984375">
+      </annotations>
+      <annotations xmi:id="a072084b7cb10f80a24b2b8c4b82a646" key="height" value="171">
+      </annotations>
+    </annotations>
+    <inputs xmi:id="f19962a26ebfe52c57113b47136a6aef" name="Join_IN" kind="TABLE">
+      <attributes xmi:id="58ca425420fcd3442ff70811e43c73dd" name="BANK_NAME" type="VARCHAR" nullable="true" length="32">
+      </attributes>
+      <attributes xmi:id="a9b9f7c422849f8db3fea4e716005608" name="BRANCH_ID" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="f1d33a5e1b580c29e7912fe53d1481d0" name="Newsales" type="VARCHAR" nullable="true" length="38">
+      </attributes>
+    </inputs>
+    <inputs xmi:id="d1c63db29cc3f41e71fe46a7f810d3bb" name="Join_IN_1">
+      <attributes xmi:id="b34768324df2d643e2c2bed7d36a17da" name="BANK_NAME" type="VARCHAR" nullable="true" length="32">
+      </attributes>
+      <attributes xmi:id="aa2e310879d3259a20ac2c20f9963f39" name="BRANCH_ID" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="ae5630cff4fcffdf6756258dff0128c3" name="CUSTOMER_NAME" type="VARCHAR" nullable="true" length="32">
+      </attributes>
+      <attributes xmi:id="ee1fb35a9b7cdb1c408b6787df01e777" name="ANNUAL_INCOME_KEUR" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="76de97428413f1619a095548d22eaf09" name="DEBT_TO_INCOME_RATIO" type="VARCHAR" nullable="true" length="8">
+      </attributes>
+    </inputs>
+    <outputs xmi:id="bb87a5e85b3507398d06170c5732bef9" name="Join_OUT" kind="TABLE">
+      <attributes xmi:id="b93ba84209adec773cec7e9add12a0c8" name="BANK_NAME" type="VARCHAR" nullable="true" length="32">
+      </attributes>
+      <attributes xmi:id="fffe8fad918d1ecd60adaba7f0c52a6e" name="BRANCH_ID" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="c87964b498d4d05859fae9dc7b33b622" name="CUSTOMER_NAME" type="VARCHAR" nullable="true" length="32">
+      </attributes>
+      <attributes xmi:id="e91f7775022bd9668430eb3adc48a81e" name="ANNUAL_INCOME_KEUR" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="2c77065de6cc10fa394c9c5f9a275042" name="DEBT_TO_INCOME_RATIO" type="VARCHAR" nullable="true" length="8">
+      </attributes>
+    </outputs>
+    <tableMappings xmi:id="8a3a113547382f0bf0fea130daed12fc" source="f19962a26ebfe52c57113b47136a6aef" target="bb87a5e85b3507398d06170c5732bef9">
+      <attributeMappings xmi:id="3a1e0c8b50c1c80f538f83e567f7dca5" source="58ca425420fcd3442ff70811e43c73dd" target="b93ba84209adec773cec7e9add12a0c8">
+      </attributeMappings>
+      <attributeMappings xmi:id="ed3dd5bec46f0cfd8dc18784d324ff81" source="a9b9f7c422849f8db3fea4e716005608" target="fffe8fad918d1ecd60adaba7f0c52a6e">
+      </attributeMappings>
+    </tableMappings>
+    <tableMappings xmi:id="51929dd047573d667b03f64e1649563c" source="d1c63db29cc3f41e71fe46a7f810d3bb" target="bb87a5e85b3507398d06170c5732bef9">
+      <attributeMappings xmi:id="9e69639868eeeafc9f9843c404b1ea7a" source="ae5630cff4fcffdf6756258dff0128c3" target="c87964b498d4d05859fae9dc7b33b622">
+      </attributeMappings>
+      <attributeMappings xmi:id="9250e0b4423e50d240ef2477c57adeaf" source="ee1fb35a9b7cdb1c408b6787df01e777" target="e91f7775022bd9668430eb3adc48a81e">
+      </attributeMappings>
+      <attributeMappings xmi:id="00dabd64ebcd0a2d89d6abf9b7dec3c7" source="76de97428413f1619a095548d22eaf09" target="2c77065de6cc10fa394c9c5f9a275042">
+      </attributeMappings>
+    </tableMappings>
+    <joinDefinitions left="f19962a26ebfe52c57113b47136a6aef" right="d1c63db29cc3f41e71fe46a7f810d3bb" type="INNER" condition="&quot;Join_IN&quot;.&quot;BRANCH_ID&quot; = &quot;Join_IN_1&quot;.&quot;BRANCH_ID&quot;">
+    </joinDefinitions>
+  </nodes>
+  <nodes xmi:id="6ffe632a7cf21369ba03d5d159c6bbdf" xsi:type="flowgraph:FilterNode" name="Projection_1">
+    <annotations key="sap.afm.layout" xmi:id="1cd4e72e69258ff33341640b9fc828c0">
+      <annotations xmi:id="223631a4c2e373b69199a478733e61b3" key="x" value="484">
+      </annotations>
+      <annotations xmi:id="ec4f9b5224989257977fc0e9a2637a73" key="y" value="252">
+      </annotations>
+      <annotations xmi:id="128e33e19636aac4d984e606fbebcfc6" key="width" value="120">
+      </annotations>
+      <annotations xmi:id="306235e3b10d15f57d00c0eb65715761" key="height" value="115">
+      </annotations>
+    </annotations>
+    <annotations xmi:id="39f3ef3985526ca9437c6a2b3c046327" key="sap.im.transform.jit" value="true">
+    </annotations>
+    <inputs xmi:id="c1ed2cc49c96773c3f595e440f4e1c18" name="Projection_1_IN">
+      <attributes xmi:id="6cff5ae5485eef6fee5ea56ada67c8d6" name="BANK_NAME" type="VARCHAR" nullable="true" length="32">
+      </attributes>
+      <attributes xmi:id="f34708938f92292b894970441393b6f5" name="BRANCH_ID" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="5b3d5057d942f88ae3d628a0f239b8d9" name="CUSTOMER_NAME" type="VARCHAR" nullable="true" length="32">
+      </attributes>
+      <attributes xmi:id="b9cea940ffa4c90465d8f142c72e0b14" name="ANNUAL_INCOME_KEUR" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="bca5483eca6e1228c106149d4d889950" name="DEBT_TO_INCOME_RATIO" type="VARCHAR" nullable="true" length="8">
+      </attributes>
+    </inputs>
+    <outputs xmi:id="a36fc00d9528d7fd8f7e64f23e238f24" name="Projection_1_OUT">
+      <attributes xmi:id="0df7011cea2a6087ccb871d4f552dd0d" name="BANK_NAME" type="VARCHAR" nullable="true" expression="&quot;BANK_NAME&quot;" length="32">
+      </attributes>
+      <attributes xmi:id="bb1c25364499ac5e1d3e7ada92aa3933" name="BRANCH_ID" type="INTEGER" nullable="true" expression="&quot;BRANCH_ID&quot;" length="10">
+      </attributes>
+      <attributes xmi:id="92da1756b73ef1e37a63f2cac0afe1ae" name="CUSTOMER_NAME" type="VARCHAR" nullable="true" expression="&quot;CUSTOMER_NAME&quot;" length="32">
+      </attributes>
+      <attributes xmi:id="cdf57cb3958478aae80ab140f46adab2" name="ANNUAL_INCOME_KEUR" type="INTEGER" nullable="true" expression="&quot;ANNUAL_INCOME_KEUR&quot;" length="10">
+      </attributes>
+      <attributes xmi:id="9c5b08b0be210bb3b08e7b69a3a752ad" name="DEBT_TO_INCOME_RATIO" type="VARCHAR" nullable="true" expression="&quot;DEBT_TO_INCOME_RATIO&quot;" length="8">
+      </attributes>
+    </outputs>
+  </nodes>
+  <variables name="V_country" kind="scalarParam" type="NVARCHAR" length="50" nullable="true" defaultValue="&#x27;IN&#x27;" xmi:id="1a4d5b7e7c8a7a58400ad0722b0be1c7">
+  </variables>
+  <variables name="V_date" kind="scalarParam" nullable="true" defaultValue="&#x27;2018-09-20&#x27;" type="NVARCHAR" length="50" xmi:id="3dce434f76d876d4e76a8b996e12f149">
+  </variables>
+</flowgraph:ContainerNode>
